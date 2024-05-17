@@ -1,0 +1,7 @@
+# 33 + 36
+push .int 33
+push .int 36
+add
+# print
+call .int 0
+halt
